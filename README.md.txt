@@ -1,0 +1,3 @@
+
+
+![](./img/mecab.PNG)
